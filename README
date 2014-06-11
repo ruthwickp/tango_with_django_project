@@ -1,4 +1,15 @@
 Basic website built using the Django framework.
 
-Allows people to explore different categories on the website and 
-allows registered users to add specific pages to a given category.
+The url location is at tangowithrango.pythonanywhere.com/rango/
+
+This website was built from scratch based upon a tutorial on learning Django.
+It features many aspects of the framework such as dealing with databases, static files,
+forms, user authentication, and cookies and sessions.
+
+In addition, I utilized a Bing Search API to allow clients to search for pages 
+not available on the website. 
+
+The overall website contains a list of categories and category-specific pages that
+were most viewed by clients accessing website. Clients also are allowed to add
+more categories and pages by registering for an account.
+
