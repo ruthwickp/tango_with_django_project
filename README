@@ -1,0 +1,4 @@
+Basic website built using the Django framework.
+
+Allows people to explore different categories on the website and 
+allows registered users to add specific pages to a given category.
