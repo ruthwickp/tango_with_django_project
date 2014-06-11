@@ -210,5 +210,3 @@ def get_category_list():
         encode_url(category)
     return category_list
 
-# https://api.datamarket.azure.com/Bing/Search/v1/Composite
-# Key vVgndLTLmxEsoCF5OP73kQ2VfkIF6eKUHvNngQd3akE
